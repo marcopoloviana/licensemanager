@@ -20,3 +20,4 @@ bin/Debug/netcoreapp2.2/licensemanager.pdb
 bin/Debug/netcoreapp2.2/licensemanager.deps.json
 bin/Debug/netcoreapp2.2/licensemanager.runtimeconfig.json
 bin/Debug/netcoreapp2.2/licensemanager.runtimeconfig.dev.json
+appsettings.json
